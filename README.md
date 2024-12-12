@@ -61,6 +61,8 @@ Connect with the **PoE 2 Skills** community by sharing your builds, discussing s
 Visit [https://www.poe2skills.org](https://www.poe2skills.org) to explore these features today!
 
 ---
+![PoE 2 Skills](https://www.poe2skills.org/og-image.png)
+
 
 ## Why Choose PoE 2 Skills?
 
